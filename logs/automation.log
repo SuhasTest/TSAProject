@@ -1,0 +1,351 @@
+11:44:16.257 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+11:44:16.267 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.282 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+11:44:16.282 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.292 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.307 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+11:44:16.308 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.308 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.317 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.323 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:44:16.326 [main] TRACE - Resolving type for handle workbookec17doctype
+11:44:16.330 [main] TRACE - Resolving type for handle ctworkbook83c3type
+11:44:16.337 [main] TRACE - Resolving type for handle ctsheets49fdtype
+11:44:16.339 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:44:16.343 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:44:16.345 [main] TRACE - Resolving type for handle worksheetf539doctype
+11:44:16.350 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:44:16.366 [main] TRACE - Resolving type for handle ctcols627ctype
+11:44:16.375 [main] TRACE - Resolving type for handle ctcola95ftype
+11:44:16.401 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:44:16.405 [main] TRACE - Resolving type for handle ctrowdd39type
+11:44:16.410 [main] TRACE - Resolving type for handle ctcell842btype
+11:44:16.416 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:44:16.468 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+11:44:16.474 [main] TRACE - Resolving type for handle ctdefinedname9413type
+11:44:16.480 [main] TRACE - Resolving type for handle stxstringf179type
+11:44:16.489 [main] TRACE - Resolving type for handle stsheetstate158btype
+11:44:16.517 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:44:16.528 [main] TRACE - Resolving type for handle ctdrawing44fdtype
+11:44:16.534 [main] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+11:44:16.538 [main] TRACE - Resolving type for handle ctmarkeree8etype
+11:44:16.540 [main] TRACE - Resolving type for handle strowidf4cftype
+11:44:16.569 [main] TRACE - Resolving type for handle ctmergecells1242type
+11:44:16.572 [main] TRACE - Resolving type for handle ctmergecelle8d9type
+11:44:16.574 [main] TRACE - Resolving type for handle stref90a2type
+11:44:16.615 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+11:44:16.617 [main] TRACE - Resolving type for handle stfontid9d63type
+11:44:16.620 [main] TRACE - Resolving type for handle stfillida097type
+11:44:16.622 [main] TRACE - Resolving type for handle stborderid1a80type
+11:44:16.623 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+11:44:16.628 [main] TRACE - Resolving type for handle ctcellalignmentb580type
+11:44:16.631 [main] TRACE - Resolving type for handle stverticalalignmentd35ctype
+11:44:16.634 [main] TRACE - Resolving type for handle ctborderpre497type
+11:44:16.640 [main] TRACE - Resolving type for handle stborderstylec774type
+11:44:16.644 [main] TRACE - Resolving type for handle ctcolord2c2type
+11:44:16.658 [main] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+11:44:16.664 [main] TRACE - Resolving type for handle ctchartc108type
+11:44:16.670 [main] TRACE - Resolving type for handle cttitleb54etype
+11:44:16.706 [main] TRACE - Resolving type for handle cttx9678type
+11:44:16.707 [main] TRACE - Resolving type for handle cttextbodya3catype
+11:44:16.709 [main] TRACE - Resolving type for handle cttextparagraphcaf2type
+11:44:16.710 [main] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+11:44:16.721 [main] TRACE - Resolving type for handle ctplotarea106etype
+11:44:16.724 [main] TRACE - Resolving type for handle ctcatax7159type
+11:44:16.728 [main] TRACE - Resolving type for handle ctunsignedinte8ectype
+11:44:16.730 [main] TRACE - Resolving type for handle ctvalaxd06etype
+11:44:16.734 [main] TRACE - Resolving type for handle ctbarchart4151type
+11:44:16.738 [main] TRACE - Resolving type for handle ctbardir5f42type
+11:44:16.743 [main] TRACE - Resolving type for handle ctbarser960ftype
+11:44:16.747 [main] TRACE - Resolving type for handle ctaxdatasource1440type
+11:44:16.750 [main] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+11:44:16.754 [main] TRACE - Resolving type for handle ctstrref5d1atype
+11:44:16.756 [main] TRACE - Resolving type for handle ctstrdatad58btype
+11:44:16.758 [main] TRACE - Resolving type for handle ctnumref062ftype
+11:44:16.760 [main] TRACE - Resolving type for handle ctnumdata4f16type
+11:44:16.775 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+11:44:16.780 [main] TRACE - Resolving type for handle ctbookviewsb864type
+11:44:16.781 [main] TRACE - Resolving type for handle ctbookviewf677type
+11:44:16.786 [main] TRACE - Resolving type for handle propertiesee84doctype
+11:44:16.787 [main] TRACE - Resolving type for handle ctproperties3f10type
+11:44:16.791 [main] TRACE - Resolving type for handle properties288cdoctype
+11:44:16.792 [main] TRACE - Resolving type for handle ctproperties2c18type
+11:44:16.795 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+11:44:16.797 [main] TRACE - Resolving type for handle ctfontname2dc3type
+11:44:16.798 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+11:44:16.800 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+11:44:16.802 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+11:44:16.804 [main] TRACE - Resolving type for handle stfontschemef36dtype
+11:44:16.805 [main] TRACE - Resolving type for handle ctpatternfill7452type
+11:44:16.807 [main] TRACE - Resolving type for handle stpatterntype7939type
+11:44:16.809 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:44:16.812 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:44:16.814 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:44:16.817 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:44:16.819 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:44:16.822 [main] TRACE - Resolving type for handle ctstrval86cctype
+11:44:16.823 [main] TRACE - Resolving type for handle ctnumval2fe1type
+11:44:16.828 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+11:44:16.831 [main] TRACE - Resolving type for handle stunsignedinthex27datype
+11:44:16.856 [main] TRACE - Resolving type for handle ctsheetprotection22f7type
+11:44:16.889 [main] TRACE - Resolving type for handle ctpaneaab1type
+11:44:16.894 [main] TRACE - Resolving type for handle stpane2ac1type
+11:44:16.895 [main] TRACE - Resolving type for handle stpanestateae58type
+11:44:16.897 [main] TRACE - Resolving type for handle ctselectionca2btype
+11:44:16.938 [main] TRACE - Resolving type for handle ctworkbookprotection56bctype
+11:44:16.963 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:44:17.003 [main] DEBUG - Save content types part
+11:44:17.128 [main] DEBUG - Save package relationships
+11:44:17.136 [main] DEBUG - Save part 'docProps/app.xml'
+11:44:17.138 [main] DEBUG - Save part 'docProps/core.xml'
+11:44:17.141 [main] DEBUG - Save part 'xl/charts/chart1.xml'
+11:44:17.142 [main] DEBUG - Save part 'xl/charts/chart2.xml'
+11:44:17.142 [main] DEBUG - Save part 'xl/charts/chart3.xml'
+11:44:17.143 [main] DEBUG - Save part 'xl/charts/chart4.xml'
+11:44:17.144 [main] DEBUG - Save part 'xl/charts/chart5.xml'
+11:44:17.145 [main] DEBUG - Save part 'xl/charts/chart6.xml'
+11:44:17.147 [main] DEBUG - Save part 'xl/charts/chart7.xml'
+11:44:17.147 [main] DEBUG - Save part 'xl/charts/chart8.xml'
+11:44:17.148 [main] DEBUG - Save part 'xl/charts/chart9.xml'
+11:44:17.149 [main] DEBUG - Save part 'xl/charts/chart10.xml'
+11:44:17.149 [main] DEBUG - Save part 'xl/charts/chart11.xml'
+11:44:17.151 [main] DEBUG - Save part 'xl/charts/chart12.xml'
+11:44:17.152 [main] DEBUG - Save part 'xl/charts/chart13.xml'
+11:44:17.152 [main] DEBUG - Save part 'xl/drawings/drawing1.xml'
+11:44:17.156 [main] DEBUG - Save part 'xl/drawings/drawing2.xml'
+11:44:17.156 [main] DEBUG - Save part 'xl/drawings/drawing3.xml'
+11:44:17.156 [main] DEBUG - Save part 'xl/drawings/drawing4.xml'
+11:44:17.157 [main] DEBUG - Save part 'xl/drawings/drawing5.xml'
+11:44:17.158 [main] DEBUG - Save part 'xl/drawings/drawing6.xml'
+11:44:17.158 [main] DEBUG - Save part 'xl/drawings/drawing7.xml'
+11:44:17.159 [main] DEBUG - Save part 'xl/drawings/drawing8.xml'
+11:44:17.161 [main] DEBUG - Save part 'xl/drawings/drawing9.xml'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings5.bin'
+11:44:17.162 [main] DEBUG - Save part 'xl/printerSettings/printerSettings8.bin'
+11:44:17.163 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:44:17.163 [main] DEBUG - Save part 'xl/styles.xml'
+11:44:17.163 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+11:44:17.164 [main] DEBUG - Save part 'xl/workbook.xml'
+11:44:17.165 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:44:17.169 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+11:44:17.172 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+11:44:17.173 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+11:44:17.175 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+11:44:17.176 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+11:44:17.316 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@1788cb61: 70 ms
+11:44:17.319 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9] 654081962
+11:44:17.319 [main] TRACE - [Graph] ================ SORTING
+11:44:17.319 [main] TRACE - [Graph] =============== DONE SORTING
+11:44:17.319 [main] TRACE - [Graph] ====== SORTED NODES
+11:44:17.319 [main] TRACE - [Graph] ====== END SORTED NODES
+11:44:17.328 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@51e7589f: 10 ms
+11:44:17.339 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@6f91fbda: 11 ms
+11:44:17.352 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64656b9e: 12 ms
+11:44:17.364 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6314df3c: 11 ms
+11:44:17.365 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5785e813: 0 ms
+13:10:28.450 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart1.xml.rels
+13:10:28.455 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart2.xml.rels
+13:10:28.456 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+13:10:28.457 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+13:10:28.458 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+13:10:28.459 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+13:10:28.460 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+13:10:28.460 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+13:10:28.461 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+13:10:28.462 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+13:10:28.463 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+13:10:28.464 [main] DEBUG - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+13:10:28.466 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:10:28.467 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:10:28.469 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+13:10:28.470 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+13:10:28.471 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+13:10:28.472 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+13:10:28.473 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+13:10:28.475 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+13:10:28.475 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:10:28.579 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:10:28.581 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:10:28.582 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:10:28.582 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:10:28.583 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:10:28.584 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:10:28.593 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:10:28.593 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:10:28.598 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:10:28.598 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:10:28.599 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:10:28.600 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:10:28.600 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:10:28.601 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+13:10:28.632 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:10:28.633 [main] TRACE - Resolving type for handle themefd26doctype
+13:10:28.664 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+13:10:28.674 [main] TRACE - Resolving type for handle ctstylesheet4257type
+13:10:28.677 [main] TRACE - Resolving type for handle ctcolors6579type
+13:10:28.678 [main] TRACE - Resolving type for handle ctfonts6623type
+13:10:28.680 [main] TRACE - Resolving type for handle ctfont14d8type
+13:10:28.683 [main] TRACE - Resolving type for handle ctfills2c6ftype
+13:10:28.685 [main] TRACE - Resolving type for handle ctfill550ctype
+13:10:28.687 [main] TRACE - Resolving type for handle ctborders0d66type
+13:10:28.689 [main] TRACE - Resolving type for handle ctborderf935type
+13:10:28.691 [main] TRACE - Resolving type for handle ctcellxfs1322type
+13:10:28.693 [main] TRACE - Resolving type for handle ctxf97f7type
+13:10:28.695 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+13:10:28.696 [main] TRACE - Resolving type for handle ctdxfsb26atype
+13:10:28.697 [main] TRACE - Resolving type for handle cttablestyles872ftype
+13:10:28.699 [main] TRACE - Resolving type for handle sstf81fdoctype
+13:10:28.701 [main] TRACE - Resolving type for handle ctsst44f3type
+13:10:28.706 [main] TRACE - Resolving type for handle ctrsta472type
+13:10:28.723 [main] TRACE - Resolving type for handle calcchainfc37doctype
+13:10:28.725 [main] TRACE - Resolving type for handle ctcalcchain5a0btype
+13:10:28.727 [main] TRACE - Resolving type for handle externallinkb4c2doctype
+13:10:28.729 [main] TRACE - Resolving type for handle ctexternallink966etype
+13:10:28.730 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.732 [main] TRACE - Resolving type for handle ctdrawing2748type
+13:10:28.739 [main] TRACE - Resolving type for handle chartspace36e0doctype
+13:10:28.743 [main] TRACE - Resolving type for handle ctchartspacef9b4type
+13:10:28.748 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:10:28.749 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:10:28.749 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:10:28.749 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.756 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:10:28.757 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.759 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.765 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:10:28.765 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.768 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.772 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:10:28.773 [main] TRACE - Resolving type for handle workbookec17doctype
+13:10:28.781 [main] TRACE - Resolving type for handle ctworkbook83c3type
+13:10:28.784 [main] TRACE - Resolving type for handle ctsheets49fdtype
+13:10:28.785 [main] TRACE - Resolving type for handle ctsheet4dbetype
+13:10:28.787 [main] TRACE - Resolving type for handle strelationshipid1e94type
+13:10:28.788 [main] TRACE - Resolving type for handle worksheetf539doctype
+13:10:28.791 [main] TRACE - Resolving type for handle ctworksheet530dtype
+13:10:28.797 [main] TRACE - Resolving type for handle ctcols627ctype
+13:10:28.800 [main] TRACE - Resolving type for handle ctcola95ftype
+13:10:28.813 [main] TRACE - Resolving type for handle ctsheetdata8408type
+13:10:28.820 [main] TRACE - Resolving type for handle ctrowdd39type
+13:10:28.824 [main] TRACE - Resolving type for handle ctcell842btype
+13:10:28.828 [main] TRACE - Resolving type for handle stcellrefe4e0type
+13:10:28.848 [main] TRACE - Resolving type for handle ctcellformula3583type
+13:10:28.851 [main] TRACE - Resolving type for handle stcellformulatypee2cdtype
+13:10:28.853 [main] TRACE - Resolving type for handle ctexternalreferencesd77ctype
+13:10:28.854 [main] TRACE - Resolving type for handle ctexternalreference945ftype
+13:10:28.856 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+13:10:28.857 [main] TRACE - Resolving type for handle ctdefinedname9413type
+13:10:28.859 [main] TRACE - Resolving type for handle stxstringf179type
+13:10:28.861 [main] TRACE - Resolving type for handle stsheetstate158btype
+13:10:28.869 [main] TRACE - Resolving type for handle stcelltypebf95type
+13:10:28.873 [main] TRACE - Resolving type for handle ctsheetprotection22f7type
+13:10:28.904 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+13:10:28.905 [main] TRACE - Resolving type for handle stfontid9d63type
+13:10:28.906 [main] TRACE - Resolving type for handle stfillida097type
+13:10:28.907 [main] TRACE - Resolving type for handle stborderid1a80type
+13:10:28.907 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+13:10:28.910 [main] TRACE - Resolving type for handle ctcellalignmentb580type
+13:10:28.911 [main] TRACE - Resolving type for handle stverticalalignmentd35ctype
+13:10:28.912 [main] TRACE - Resolving type for handle ctborderpre497type
+13:10:28.913 [main] TRACE - Resolving type for handle stborderstylec774type
+13:10:28.915 [main] TRACE - Resolving type for handle ctcolord2c2type
+13:10:28.922 [main] TRACE - Resolving type for handle ctfontname2dc3type
+13:10:28.923 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+13:10:28.924 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+13:10:28.928 [main] TRACE - Resolving type for handle stunsignedinthex27datype
+13:10:28.933 [main] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+13:10:28.941 [main] TRACE - Resolving type for handle ctdrawing44fdtype
+13:10:28.943 [main] TRACE - Resolving type for handle ctchartc108type
+13:10:28.944 [main] TRACE - Resolving type for handle cttitleb54etype
+13:10:28.949 [main] TRACE - Resolving type for handle cttx9678type
+13:10:28.949 [main] TRACE - Resolving type for handle cttextbodya3catype
+13:10:28.950 [main] TRACE - Resolving type for handle cttextparagraphcaf2type
+13:10:28.952 [main] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+13:10:28.957 [main] TRACE - Resolving type for handle ctplotarea106etype
+13:10:28.961 [main] TRACE - Resolving type for handle ctcatax7159type
+13:10:28.963 [main] TRACE - Resolving type for handle ctunsignedinte8ectype
+13:10:28.965 [main] TRACE - Resolving type for handle ctvalaxd06etype
+13:10:28.968 [main] TRACE - Resolving type for handle ctbarchart4151type
+13:10:28.970 [main] TRACE - Resolving type for handle ctbardir5f42type
+13:10:28.972 [main] TRACE - Resolving type for handle ctbarser960ftype
+13:10:28.974 [main] TRACE - Resolving type for handle ctaxdatasource1440type
+13:10:28.975 [main] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+13:10:28.976 [main] TRACE - Resolving type for handle ctstrref5d1atype
+13:10:28.978 [main] TRACE - Resolving type for handle ctstrdatad58btype
+13:10:28.980 [main] TRACE - Resolving type for handle ctnumref062ftype
+13:10:28.981 [main] TRACE - Resolving type for handle ctnumdata4f16type
+13:10:28.992 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+13:10:28.994 [main] TRACE - Resolving type for handle ctbookviewsb864type
+13:10:28.996 [main] TRACE - Resolving type for handle ctbookviewf677type
+13:10:28.998 [main] TRACE - Resolving type for handle propertiesee84doctype
+13:10:28.999 [main] TRACE - Resolving type for handle ctproperties3f10type
+13:10:29.001 [main] TRACE - Resolving type for handle properties288cdoctype
+13:10:29.001 [main] TRACE - Resolving type for handle ctproperties2c18type
+13:10:29.004 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+13:10:29.004 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+13:10:29.006 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+13:10:29.007 [main] TRACE - Resolving type for handle stfontschemef36dtype
+13:10:29.008 [main] TRACE - Resolving type for handle ctpatternfill7452type
+13:10:29.009 [main] TRACE - Resolving type for handle stpatterntype7939type
+13:10:29.010 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+13:10:29.012 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+13:10:29.013 [main] TRACE - Resolving type for handle ctsheetview0f43type
+13:10:29.016 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+13:10:29.017 [main] TRACE - Resolving type for handle stref90a2type
+13:10:29.018 [main] TRACE - Resolving type for handle ctpagemargins5455type
+13:10:29.020 [main] TRACE - Resolving type for handle ctstrval86cctype
+13:10:29.021 [main] TRACE - Resolving type for handle ctnumval2fe1type
+13:10:29.024 [main] TRACE - Resolving type for handle ctpaneaab1type
+13:10:29.025 [main] TRACE - Resolving type for handle stpane2ac1type
+13:10:29.025 [main] TRACE - Resolving type for handle stpanestateae58type
+13:10:29.026 [main] TRACE - Resolving type for handle ctselectionca2btype
+13:10:29.041 [main] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+13:10:29.043 [main] TRACE - Resolving type for handle ctmarkeree8etype
+13:10:29.045 [main] TRACE - Resolving type for handle strowidf4cftype
+13:10:29.052 [main] TRACE - Resolving type for handle ctcalccellb960type
+13:10:29.055 [main] TRACE - Resolving type for handle ctmergecells1242type
+13:10:29.057 [main] TRACE - Resolving type for handle ctmergecelle8d9type
+13:10:29.142 [main] TRACE - Resolving type for handle ctworkbookprotection56bctype
+13:10:29.172 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+13:10:29.215 [main] DEBUG - Save content types part
+13:10:29.327 [main] DEBUG - Save package relationships
+13:10:29.334 [main] DEBUG - Save part 'docProps/app.xml'
+13:10:29.334 [main] DEBUG - Save part 'docProps/core.xml'
+13:10:29.336 [main] DEBUG - Save part 'xl/charts/chart1.xml'
+13:10:29.338 [main] DEBUG - Save part 'xl/charts/chart2.xml'
+13:10:29.339 [main] DEBUG - Save part 'xl/charts/chart3.xml'
+13:10:29.341 [main] DEBUG - Save part 'xl/charts/chart4.xml'
+13:10:29.341 [main] DEBUG - Save part 'xl/charts/chart5.xml'
+13:10:29.343 [main] DEBUG - Save part 'xl/charts/chart6.xml'
+13:10:29.343 [main] DEBUG - Save part 'xl/charts/chart7.xml'
+13:10:29.344 [main] DEBUG - Save part 'xl/charts/chart8.xml'
+13:10:29.345 [main] DEBUG - Save part 'xl/charts/chart9.xml'
+13:10:29.345 [main] DEBUG - Save part 'xl/charts/chart10.xml'
+13:10:29.345 [main] DEBUG - Save part 'xl/drawings/drawing1.xml'
+13:10:29.347 [main] DEBUG - Save part 'xl/drawings/drawing2.xml'
+13:10:29.347 [main] DEBUG - Save part 'xl/drawings/drawing3.xml'
+13:10:29.347 [main] DEBUG - Save part 'xl/drawings/drawing4.xml'
+13:10:29.347 [main] DEBUG - Save part 'xl/drawings/drawing5.xml'
+13:10:29.349 [main] DEBUG - Save part 'xl/drawings/drawing6.xml'
+13:10:29.349 [main] DEBUG - Save part 'xl/drawings/drawing7.xml'
+13:10:29.350 [main] DEBUG - Save part 'xl/drawings/drawing8.xml'
+13:10:29.351 [main] DEBUG - Save part 'xl/drawings/drawing9.xml'
+13:10:29.351 [main] DEBUG - Save part 'xl/externalLinks/externalLink1.xml'
+13:10:29.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+13:10:29.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+13:10:29.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+13:10:29.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+13:10:29.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings7.bin'
+13:10:29.352 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:10:29.353 [main] DEBUG - Save part 'xl/styles.xml'
+13:10:29.353 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:10:29.353 [main] DEBUG - Save part 'xl/workbook.xml'
+13:10:29.354 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:10:29.356 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:10:29.358 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:10:29.361 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:10:29.363 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'

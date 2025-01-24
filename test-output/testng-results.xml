@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-22T11:44:10 IST" name="Default suite" finished-at="2025-01-22T11:44:17 IST" duration-ms="6238">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-01-22T11:44:10 IST" name="Default test" finished-at="2025-01-22T11:44:17 IST" duration-ms="6238">
+      <class name="testRunners.ParallelTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" started-at="2025-01-22T11:44:10 IST" name="setUpClass" finished-at="2025-01-22T11:44:11 IST" duration-ms="606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1cd2ff5b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" started-at="2025-01-22T11:44:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-01-22T11:44:14 IST" duration-ms="3319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Log in to portal with same creds used in registration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration and login together"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" started-at="2025-01-22T11:44:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-01-22T11:44:15 IST" duration-ms="3734" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful user registration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Registration"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "pageObjects.RegistrationPage.setFirstName(String)" because "stepDefination.RegistrationSteps.registrationPage" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "pageObjects.RegistrationPage.setFirstName(String)" because "stepDefination.RegistrationSteps.registrationPage" is null
+at stepDefination.RegistrationSteps.FillRegDetails(RegistrationSteps.java:51)
+at ✽.I fill in the registration details(file:///C:/Users/SuhasSambhajiBhagat/OneDrive%20-%20Kerv/Documents/Workspace%20Eclipse%20Java/TSAProject/src/test/resources/features/Registration.feature:7)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" started-at="2025-01-22T11:44:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-01-22T11:44:15 IST" duration-ms="3729" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Log in with Valid Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Log in"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "pageObjects.LoginPage.EnterEmail(String)" because "stepDefination.LogInSteps.loginpage" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "pageObjects.LoginPage.EnterEmail(String)" because "stepDefination.LogInSteps.loginpage" is null
+at stepDefination.LogInSteps.EnterValidCreds(LogInSteps.java:41)
+at ✽.I enter the valid email "<email>" and password "<password>"(file:///C:/Users/SuhasSambhajiBhagat/OneDrive%20-%20Kerv/Documents/Workspace%20Eclipse%20Java/TSAProject/src/test/resources/features/LogIn.feature:6)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunners.ParallelTestRunner@6b8d96d9]" started-at="2025-01-22T11:44:15 IST" name="tearDownClass" finished-at="2025-01-22T11:44:17 IST" duration-ms="1849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunners.ParallelTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
