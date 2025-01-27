@@ -7,7 +7,7 @@ public class RegisteredLoginScenario
 	@Given("user registered in the application")
 	public void user_registered_in_the_application() 
 	{
-	   
+	   No blank
 	}
 
 	@Then("they should be able to login with same credentials")
